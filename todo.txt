@@ -1,0 +1,15 @@
+// TODO show image sizes (thumbnail sizes)
+// add_filter('jpeg_quality', create_function('$quality', 'return 100;'));
+// allow to deregister image sizes
+// check if too many files in a single folder found
+// https://wordpress.org/plugins/image-sizes/
+// https://wordpress.org/plugins/fix-my-posts/
+// check missing images
+// report about gif and convert to png
+// 2018/07 exists but no references to that folder. its skipped
+
+		// $post->post_name = '';
+		// wp_update_post( $post );
+		// check presense of _wp_attached_file
+
+// remove duplicates
